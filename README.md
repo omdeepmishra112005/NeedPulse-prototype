@@ -1,0 +1,1 @@
+NeedPulse is a simple volunteer coordination platform that connects people who need help with nearby volunteers. Users can post small requests like tutoring, medicine delivery, blood donation, or local support, and volunteers can accept tasks based on their skills and availability. The goal of NeedPulse is to make community help faster, easier, and more organized.
